@@ -1,0 +1,32 @@
+Model used is gpt-4o-mini
+Avg. number of tokens: 341.14
+DataBench_lite accuracy is 0.58125
+
+Prompt used is:
+
+Given a pandas DataFrame operation task, complete the function in one line.
+
+Input DataFrame columns: {list_df_columns}
+Question: {question}
+Expected return type: {row_type}
+
+Example format:
+def answer(df: pd.DataFrame) -> float:
+    df.columns = ['A', 'B', 'C']
+    return ...
+
+Write a single line of code to replace the ... that:
+1. Uses the DataFrame 'df' as input
+2. Returns the exact type specified in the return type
+3. Solves the given question
+4. Uses pandas operations efficiently
+5. Avoids loops or multiple statements
+
+The solution should be ONLY one line and use pandas vectorized operations when possible. 
+
+Format your output as follows:
+```json
+{{
+    "solution": "your one line of code here"
+}}
+```

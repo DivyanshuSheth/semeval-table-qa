@@ -1,0 +1,4 @@
+gpt-4o-mini: 
+lite: 
+20241203-141437
+21.78% accuracy

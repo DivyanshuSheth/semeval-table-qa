@@ -1,0 +1,36 @@
+Model used is bigcode/starcoder2-7b
+DataBench_lite accuracy is 0.45625
+
+Prompt used is:
+
+You are an expert data scientist working at a large company. You have been tasked with writing a function that will gather insights from a dataset. The function should take a pandas DataFrame as input and return the requested information. 
+Given the following input DataFrame columns, question, and expected return type, complete the function in one line.
+The solution should be ONLY one line and use pandas vectorized operations when possible. 
+
+Input DataFrame columns: ['rank', 'personName', 'age', 'finalWorth', 'category', 'source', 'country', 'state', 'city', 'organization', 'selfMade', 'gender', 'birthDate', 'title', 'philanthropyScore', 'bio', 'about']
+Question: Is the person with the highest net worth self-made?
+Expected return type: boolean
+
+Code that calculates the answer:
+```json
+{{
+    "solution": "df.loc[df['finalWorth'].idxmax(), 'selfMade']"
+}}
+
+Input DataFrame columns: ['Survived', 'Pclass', 'Name', 'Sex', 'Age', 'Siblings_Spouses Aboard', 'Parents_Children Aboard', 'Fare']
+Question: Which passenger class has the highest number of survivors?
+Expected return type: category
+
+Code that calculates the answer:
+```json
+{{
+    "solution": "df[df['Survived'] == 1]['Pclass'].mode().iloc[0]"
+}}
+```
+
+Input DataFrame columns: {list_df_columns}
+Question: {question}
+Expected return type: {row_type}
+
+Code that calculates the answer:
+

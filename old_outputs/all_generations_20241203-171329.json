@@ -1,0 +1,3 @@
+[
+    "```json\n{\n    \"solution\": \"df.loc[df['favorites'].idxmax(), 'lang'] == 'es'\"\n}\n```"
+]

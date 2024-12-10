@@ -1,0 +1,160 @@
+True
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+2
+0
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+reply
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[13, 0, 4, 17]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[6, 1, 1, 1, 0]
+__CODE_ERROR__: StringMethods.count() got an unexpected keyword argument 'expand'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+__CODE_ERROR__: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+13
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+5
+84.2
+Psychic
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[7, 17, 3, 0, 2, 10]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[90, 50]
+[110, 71]
+[240, 280, 289, 290, 365, 380]
+True
+False
+False
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+0.6291001325102317
+18
+__CODE_ERROR__: 'numpy.float64' object has no attribute 'idxmax'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+11
+11
+__CODE_ERROR__: 'numpy.float64' object has no attribute 'idxmax'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['Stock Trader', 'Credit Manager', 'Chairperson']
+[0.4486778494625867, 0.4843843174136154, 0.5696508655026261, 0.706749877267691]
+[11, 10, 4, 13, 15]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[0.7997301042051191, 0.7874815418605556, 0.786896532913159, 0.7780772474605324, 0.7595518653914357]
+[1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+True
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+0
+__CODE_ERROR__: 'numpy.int64' object has no attribute 'idxmax'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['B2', 'S1']
+['video, display, mobile, content', 'member, portion, body, end']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[9, 1, 6]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'user_verified'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'mention_ids'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'user_followers_count'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'mention_names'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: ('Lengths must match to compare', (20,), (4,))
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+False
+8613
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+60
+2
+Business
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+Existing Credits Paid Back Duly Till Now
+Less than 100 DM
+['Skilled', 'Unskilled - Resident', 'Highly Skilled']
+[5.0, 1.0, 4.0, 1.0]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: "['Status'] not in index"
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[60, 60, 42, 33]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[65, 64]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: data type 'category' not understood
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: DataFrame.nlargest() missing 1 required positional argument: 'columns'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'prevVoteCat'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[Ciudadanos]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['[Ciudadanos]', '[I prefer not to say]', '[]', '[I am undeceided]', '[Podemos]']
+['The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say']
+['Ciudadanos', 'I prefer not to say', 'PSOE']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[33.0, 38.0, 22.0]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'

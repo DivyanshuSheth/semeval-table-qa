@@ -1,0 +1,160 @@
+20
+20
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+49
+20
+0
+Manuel
+20
+ 🇪🇸 Bearded.LocutusBorg  🇮🇪 🏳️‍🌈
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: unterminated string literal (detected at line 4) (<string>, line 4)
+20
+20
+20
+20
+[0, 1, 0, 1]
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+False
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+618
+5
+84.2
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+20
+20
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['Grass', 'Normal']
+[]
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+[240, 280, 289, 290, 365, 380]
+20
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+0.4653777257133697
+0.0355792960526332
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: list index out of range
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['Automation Engineer', 'Stock Trader', 'Data Analyst', 'User Experience Designer (UX Designer)']
+20
+['U.S. Representative', 'Examiner']
+20
+[0.3282629326553239, 0.3454430761347227, 0.5168284093531004, 0.5454469457823092]
+20
+20
+True
+20
+20
+True
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+19
+20
+__CODE_ERROR__: unterminated string literal (detected at line 4) (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['utility', 'design']
+['B2', 'S1']
+20
+[41, 32, 30, 27]
+20
+[np.float64(18.0), np.float64(1.0)]
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: list index out of range
+__CODE_ERROR__: list index out of range
+__CODE_ERROR__: 'mention_names'
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+30308043
+__CODE_ERROR__: list index out of range
+20
+20
+__CODE_ERROR__: 'user_followers_count'
+20
+Joe Biden
+__CODE_ERROR__: 'retweets'
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+[30308043, 30212714, 30212713]
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: 'retweets'
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+20
+False
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+60
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+Skilled
+20
+Less than 100 DM
+['Skilled', 'Skilled', 'Highly Skilled']
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+[8613, 7297, 7253]
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+[65, 64]
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+20
+False
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+0.06386499999999999
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+0.2403
+chocolate bar
+20
+20
+chicken
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['milk', 'cookie', 'hotdog']
+20
+__CODE_ERROR__: invalid character '’' (U+2019) (<string>, line 4)
+20
+[0.0, 0.0, 0.0]
+__CODE_ERROR__: closing parenthesis ')' does not match opening parenthesis '[' (<string>, line 4)
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+20
+20
+20
+20
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: unterminated string literal (detected at line 4) (<string>, line 4)
+20
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['[Ciudadanos]', '[I prefer not to say]', '[]', '[I am undeceided]', '[Podemos]']
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['Ciudadanos', 'I prefer not to say', 'PSOE']
+20
+[33.0, 22.0, 38.0]
+20
+[5.0, 3.0, 4.0, 0.0]
+__CODE_ERROR__: invalid syntax (<string>, line 4)

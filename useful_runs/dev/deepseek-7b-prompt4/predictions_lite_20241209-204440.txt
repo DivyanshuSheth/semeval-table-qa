@@ -1,0 +1,180 @@
+False
+False
+True
+True
+__CODE_ERROR__: 'author_id'
+49
+2
+__CODE_ERROR__: 'mention_names'
+Manuel
+es
+__CODE_ERROR__: 12
+reply
+['Manuel', 'ING enfurecido \xa0🦁', 'Albert Navarro']
+['es', 'es', 'es', 'es', 'es']
+['Vito!!', 'Albert Navarro', 'JEEVES', 'Leo Tarda']
+['reply', 'original']
+[0, 1, 0, 1, 0]
+[49, 44, 41]
+[0, 0, 0, 0]
+[2, 3, 4, 6, 12, 13]
+False
+False
+False
+False
+13
+618
+__CODE_ERROR__: 'number'
+84.2
+Water
+Whismur
+__CODE_ERROR__: single positional indexer is out-of-bounds
+Mega Slowbro
+['Mega Gallade', 'Latias', 'Metagross']
+['Alolan Dugtrio', 'Arrokuda', 'Helioptile', 'Steenee', 'Orbeetle']
+['Psychic', 'Dragon']
+[]
+[130, 120, 115, 90, 90]
+__CODE_ERROR__: DataFrame.nsmallest() missing 1 required positional argument: 'columns'
+__CODE_ERROR__: DataFrame.nlargest() missing 1 required positional argument: 'columns'
+[]
+True
+False
+0     True
+1     True
+2     True
+3     True
+4     True
+5     True
+6     True
+7     True
+8     True
+9     True
+10    True
+11    True
+12    True
+13    True
+14    True
+15    True
+16    True
+17    True
+18    True
+19    True
+Name: Emotional_Range, dtype: bool
+False
+0.6291001325102317
+18
+0.3521943338191243
+0.0355792960526332
+U.S. Representative
+U.S. Representative
+U.S. Representative
+Data Analyst
+['User Experience Designer (UX Designer)', 'Sustainability Coach', 'Insurance Writer']
+['Automation Engineer', 'Stock Trader', 'Data Analyst', 'User Experience Designer (UX Designer)']
+['U.S. Representative', 'Media Executive', 'Bookkeeper', 'Music Promoter', 'Director of Sales Marketing']
+['U.S. Representative', 'Examiner']
+['Music Promoter', 'Sustainability Coach', 'Learning Manager']
+[0.3282629326553239, 0.3454430761347227, 0.5168284093531004, 0.5454469457823092]
+[0.7997301042051191, 0.7874815418605556, 0.786896532913159, 0.7780772474605324, 0.7595518653914357]
+[0.0355792960526332, 0.1108088371055385, 0.1436964701751416, 0.1772058461581069, 0.2179965189872425, 0.2289998631350671]
+True
+False
+False
+False
+18
+17.65
+41
+0
+Samsung Electronics Co., Ltd.
+B2
+en
+video, display, mobile, content
+['Samsung Electronics Co., Ltd.', 'Apple Inc.', 'The Valeron Corporation']
+['B2', 'S1']
+['B2', 'S1']
+['layer, semiconductor, region, gate', 'light, optical, electrode, waveguide']
+[41, 32, 30, 27]
+[9479911.0, 9323438.0, 9480043.0]
+17.5
+[932136912.0, 9480049.0, 9480043.0]
+True
+__CODE_ERROR__: 'user_favourites_count'
+__CODE_ERROR__: unexpected character after line continuation character (<string>, line 4)
+__CODE_ERROR__: 'retweets'
+30308043
+1
+50625
+__CODE_ERROR__: 'mention_ids'
+Joe Biden
+__CODE_ERROR__: 'user_favourites_count'
+__CODE_ERROR__: 'mention_names'
+__CODE_ERROR__: 'retweets'
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: 'user_favourites_count'
+__CODE_ERROR__: 'mention_names'
+['Joe Biden', 'Joe Biden']
+[30308043, 30212714, 30212713]
+__CODE_ERROR__: 'favorites'
+__CODE_ERROR__: 'int' object has no attribute 'nlargest'
+__CODE_ERROR__: 'retweets'
+False
+True
+False
+False
+8613
+7
+60
+2
+Radio/TV
+Skilled
+Existing Credits Paid Back Duly Till Now
+Less than 100 DM
+['Skilled', 'Unskilled - Resident', 'Highly Skilled']
+['Skilled', 'Unskilled - Resident', 'Highly Skilled', 'Unemployed / Unskilled  - Non-Resident']
+['Skilled', 'Unskilled - Resident', 'Highly Skilled', 'Unemployed / Unskilled  - Non-Resident']
+['Unemployed / Unskilled  - Non-Resident', 'Unskilled - Resident']
+[8613, 7297, 7253]
+[60, 60, 42, 33]
+[1, 2, 3]
+[65, 64]
+False
+False
+False
+False
+0
+0.06386499999999999
+5
+0.2403
+chocolate bar
+chocolate bar
+pineapple
+chicken
+[10, 8, 2, 7, 12]
+__CODE_ERROR__: "['emoji'] not in index"
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+['green apple', 'pineapple', 'strawberry', 'grapes', 'tangerine', 'banana']
+[5.18, 4.97, 3.12, 2.74, 2.47]
+[0.0, 0.0, 0.0]
+[0.2599, 0.252, 0.1484, 0.1473]
+[0.0044, 0.0054, 0.0067, 0.0072, 0.0081, 0.0109]
+__CODE_ERROR__: 'Edu'
+False
+False
+__CODE_ERROR__: argument of type 'float' is not iterable
+__CODE_ERROR__: 'User self-placement on Progressive-Conservative economic values axis'
+38.72222222222222
+0
+nan
+[Ciudadanos]
+The party ideas are close to my own
+Ciudadanos
+Castellano
+['[Ciudadanos]', '[I prefer not to say]', '[]', '[I am undeceided]', '[Podemos]']
+['The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say']
+['Ciudadanos', 'I prefer not to say', 'PSOE']
+['University degree', 'I prefer not to say', 'Technical/Vocational education']
+[33.0, 38.0, 22.0]
+[5.0, 6.0, 3.0]
+__CODE_ERROR__: 'Progressive-Conservative economic values axis'
+[2.0, 4.0]

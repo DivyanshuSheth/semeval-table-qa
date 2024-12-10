@@ -1,0 +1,161 @@
+True
+False
+__CODE_ERROR__: 'author_id'
+False
+__CODE_ERROR__: 'author_id'
+49
+2
+0
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+reply
+['Manuel', 'ING enfurecido \xa0🦁', 'Albert Navarro']
+['es', 'es', 'es', 'es', 'es']
+__CODE_ERROR__: 3
+['reply', 'original']
+[0, 1, 0, 1, 0]
+[49, 44, 41]
+[0, 0, 0, 0]
+[2, 3, 4, 6, 12, 13]
+False
+False
+False
+False
+13
+618
+5
+84.2
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+Dragon
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+['Mega Gallade', 'Latias', 'Metagross']
+['Alolan Dugtrio', 'Arrokuda', 'Helioptile', 'Steenee', 'Orbeetle']
+['Grass', 'Normal']
+[]
+[130, 120, 115, 90, 90]
+[2, 13]
+[110, 71]
+[240, 280, 289, 290, 365, 380]
+True
+False
+False
+True
+0.6291001325102317
+18
+nan
+0.0355792960526332
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+Automation Engineer
+['User Experience Designer (UX Designer)', 'Sustainability Coach', 'Insurance Writer']
+[103, 76, 164, 81]
+['U.S. Representative', 'Media Executive', 'Bookkeeper', 'Music Promoter', 'Director of Sales Marketing']
+['U.S. Representative', 'Examiner']
+[0.5907415983292473, 0.5853143224995465, 0.5741970926130652]
+[0.3282629326553239, 0.3454430761347227, 0.5168284093531004, 0.5454469457823092]
+[0.7997301042051191, 0.7874815418605556, 0.786896532913159, 0.7780772474605324, 0.7595518653914357]
+[0.0355792960526332, 0.1108088371055385, 0.1436964701751416, 0.1772058461581069, 0.2179965189872425, 0.2289998631350671]
+True
+False
+False
+True
+18
+17.65
+41
+19
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+['en']
+Categories (1, object): ['en']
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+['Samsung Electronics Co., Ltd.', 'HYUNDAI MOBIS CO., LTD.', 'Apple Inc.']
+['utility', 'design']
+['B2', 'S1']
+['light, optical, electrode, waveguide', 'layer, semiconductor, region, gate']
+[41, 32, 30, 27]
+[9479911.0, 9323438.0, 9480043.0]
+[18.0, 1.0]
+[9480049.0, 9480043.0, 9479911.0]
+__CODE_ERROR__: 'user_followers_count'
+__CODE_ERROR__: 'user_favourites_count'
+__CODE_ERROR__: '(' was never closed (<string>, line 4)
+__CODE_ERROR__: 'retweets'
+30308043
+__CODE_ERROR__: 'favorites'
+__CODE_ERROR__: 'retweets'
+16
+Joe Biden
+__CODE_ERROR__: 'user_favourites_count'
+[]
+__CODE_ERROR__: 'retweets'
+[939091]
+['Joe Biden']
+__CODE_ERROR__: 'mention_names'
+__CODE_ERROR__: 'retweets'
+[30308043, 30212714, 30212713]
+__CODE_ERROR__: 'favorites'
+['[]', '["305818748"]', '["282721598"]', '["21829541"]', '["50348682"]']
+__CODE_ERROR__: 'retweets'
+False
+True
+False
+False
+8613
+7
+60
+2
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+Existing Credits Paid Back Duly Till Now
+Less than 100 DM
+['Skilled', 'Skilled', 'Highly Skilled']
+__CODE_ERROR__: 'str' object has no attribute 'value_counts'
+['Skilled', 'Highly Skilled', 'Unskilled - Resident']
+['Unemployed / Unskilled  - Non-Resident', 'Unskilled - Resident']
+[8613, 7297, 7253]
+[18, 24, 12, 60]
+[3, 2, 2]
+[65, 64]
+False
+True
+False
+False
+0
+0.06386499999999999
+5
+0.2403
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+['chocolate bar', 'cookie', 'french fries', 'bread', 'hotdog']
+['milk', 'cookie', 'hotdog']
+['chocolate bar', 'cookie', 'hotdog', 'french fries']
+['green apple', 'pineapple', 'strawberry', 'grapes', 'tangerine', 'banana']
+[5.18, 4.97, 3.12, 2.74, 2.47]
+[0.0, 0.0, 0.0]
+[0.2599, 0.252, 0.1484, 0.1473]
+[0.0044, 0.0054, 0.0067, 0.0072, 0.0081, 0.0109]
+False
+False
+False
+False
+0
+38.72222222222222
+0
+nan
+[Ciudadanos]
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+__CODE_ERROR__: 'str' object has no attribute 'astype'
+Castellano
+['[Ciudadanos]', '[I prefer not to say]', '[]', '[I am undeceided]', '[Podemos]']
+['The party ideas are close to my own', 'The party is the most competent', 'I prefer not to say']
+['Ciudadanos', 'I prefer not to say', 'PSOE']
+['University degree', 'I prefer not to say', 'Technical/Vocational education']
+[22.0, 33.0, 38.0]
+[5.0, 6.0, 3.0]
+[5.0, 3.0, 4.0, 0.0]
+[2.0, 4.0]
