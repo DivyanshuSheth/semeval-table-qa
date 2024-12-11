@@ -1,0 +1,203 @@
+False
+False
+__CODE_ERROR__: 'vote_choice'
+__CODE_ERROR__: 'vote_choice'
+0
+0
+__CODE_ERROR__: 'Which of the following best describes your current employment status?'
+__CODE_ERROR__: 'Region'
+25-34
+__CODE_ERROR__: 'vote_choice'
+High school graduate (includes equivalency)
+1
+['MI', 'GA', 'AL', 'CA', 'TX', 'NJ']
+['Education and training', 'Office worker or other professional']
+__CODE_ERROR__: 'race_ethnicity_grouped'
+['25-34', '55-64', '65+', '35-44', '18-24', '45-54']
+[13135, 29189, 1083, 24003, 6065, 6037, 26081, 48113, 51143, 53009, 26077, 34015, 34013, 48085, 32003, 19125, 8041, 26107, 13095, 1017]
+[4.871233760276248, 2.273869489671245, 1.969631929375061, 1.875535313329686]
+[1, 2, 5, 3]
+[10.0, 11.0, 1.0, 2.0, 6.0, 7.0]
+False
+__CODE_ERROR__: 'company'
+True
+True
+19
+__CODE_ERROR__: Can only use .str accessor with string values!
+__CODE_ERROR__: 'price_financed'
+__CODE_ERROR__: Can only use .str accessor with string values!
+automotorDURSAN.com A
+BMW
+Diésel
+Madrid
+['Madrid', 'Barcelona', 'Málaga']
+['Gris / Plata', 'Negro', 'Azul']
+['MERCEDES-BENZ', 'BMW', 'AUDI', 'HONDA', 'SEAT']
+['Eléctrico', 'Híbrido']
+[2017.0, 2018.0, 2020.0, 2016.0, 2008.0, 2004.0, 2007.0, 2005.0, 2000.0]
+[370000, 300000, 254000]
+__CODE_ERROR__: Can only use .str accessor with string values!
+[258.0, 258.0, 218.0, 182.0, 180.0, 170.0]
+False
+False
+True
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+12
+3
+9133
+2
+afternoon
+__CODE_ERROR__: single positional indexer is out-of-bounds
+__CODE_ERROR__: attempt to get argmin of an empty sequence
+0
+['Coffee', 'Bread', 'Farm House']
+[]
+['Hearty & Seasonal', 'Brownie']
+[]
+[628, 956, 1152, 1259]
+[9133, 7776, 7497, 7435, 7221]
+7
+[956, 2711]
+False
+False
+True
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+9
+4.25
+644423763
+2
+United States
+Disneyland_California
+2011-10
+Australia
+['United States', 'Australia', 'Malta']
+['Disneyland_California', 'Disneyland_HongKong']
+['missing', '2019-1', '2011-10', '2011-12']
+['Canada', 'United States', 'United Kingdom']
+[540713188, 119781124, 576395715, 310041955, 184009554, 121577468, 441572512, 281268713, 67523841, 337648026, 366838155, 118997003, 643982268, 620582661, 635972926, 130860097, 124120037, 217677667, 644423763, 621724235]
+__CODE_ERROR__: 'Series' object has no attribute 'stack'
+[5, 5, 5]
+[2, 5]
+0     True
+1     True
+2     True
+3     True
+4     True
+5     True
+6     True
+7     True
+8     True
+9     True
+10    True
+11    True
+12    True
+13    True
+14    True
+15    True
+16    True
+17    True
+18    True
+19    True
+Name: lang, dtype: bool
+True
+True
+True
+__CODE_ERROR__: 'author_id'
+8111.15
+105448
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+Donald J. Trump
+13
+en
+en
+['realDonaldTrump']
+['en']
+__CODE_ERROR__: 'mention_ids'
+['Donald J. Trump']
+[13, 15, 14, 3, 2]
+[0, 8, 1, 4]
+[105448, 85433, 84944, 79544, 67612, 59793]
+[10, 14, 376]
+False
+False
+False
+False
+6
+0.0923955552240227
+324.5
+0
+Christopher
+19
+https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/416/thumb/8f8493dfc040e56ef7ff8f59f9474774_normal.jpeg?1517502015
+3
+[10, 5, 12]
+['Christopher', 'Chris J. Headleand']
+['Catherine Rampell', 'Nieman Lab', 'Deok Gun Park', 'ESFL']
+['ESFL', 'WikipediaLiveMonitor', 'Alberto Perdomo']
+[204402, 155963, 91203, 43941, 42755]
+[181, 267, 282, 315]
+[0.4905835057931528, 0.2858285808469396, 0.2194061763508274, 0.2171608658929857, 0.1213462154304343, 0.1023296876109954]
+[]
+True
+True
+False
+True
+5
+legs    3.1
+dtype: float64
+6
+4
+1
+__CODE_ERROR__: single positional indexer is out-of-bounds
+6
+honeybee
+['honeybee']
+['squirrel', 'oryx']
+[1, 6, 4, 2]
+[4, 2, 7]
+[1, 6, 2, 4, 7]
+__CODE_ERROR__: 'method' object is not subscriptable
+[4, 2, 0, 6]
+[0, 0, 0]
+False
+True
+True
+0      True
+1      True
+2      True
+3      True
+4      True
+5      True
+6      True
+7      True
+8      True
+9     False
+10     True
+11     True
+12     True
+13     True
+14     True
+15     True
+16     True
+17     True
+18     True
+19     True
+Name: Country, dtype: bool
+20
+3.5410000000000004
+25
+19
+['United Kingdom']
+RETROSPOT LAMP
+BLUE POLKADOT WRAP
+12415.0
+['BLUE POLKADOT WRAP', 'HANGING JAM JAR T-LIGHT HOLDER', 'FAIRY CAKE FLANNEL ASSORTED COLOUR']
+19          HANGING METAL STAR LANTERN
+8     LARGE CAKE TOWEL CHOCOLATE SPOTS
+Name: Description, dtype: object
+['United Kingdom', 'Australia']
+['Australia', 'United Kingdom']
+['548005', '555200', '573399', '563745', '568909']
+['22465', '21109', '82484', '22799', '82600']
+[1, 4, 2, 12]
+['HANGING JAM JAR T-LIGHT HOLDER', 'GOLD FISHING GNOME']

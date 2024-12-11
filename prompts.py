@@ -591,18 +591,22 @@ Expected return type: {row_type}
 Output:
 """
 
-prompt_training_1 = """You are an assistant tasked with answering the questions asked of a given CSV in JSON format. You must answer in a single JSON with three fields:
-* "answer": answer using information from the provided CSV only.
-* "columns_used": list of columns from the CSV used to get the answer.
-* "explanation": A short explanation on why you gave that answer.
+prompt_training_1 = """You are an expert data analyst tasked with answering questions based on a dataset. You will be provided a csv file with the data and a question to answer. Your task is to provide the answer to the question.
 
-Requirements:
-* Only respond with the JSON.
-
-In the following CSV
+Dataset CSV file:
 ```csv
 {csv}
 ```
 
-USER: {question}
-ASSISTANT: {"answer":"""
+Question: {question}
+Answer: {answer}"""
+
+prompt_eval_1 = """You are an expert data analyst tasked with answering questions based on a dataset. You will be provided a csv file with the data and a question to answer. Your task is to provide the answer to the question.
+
+Dataset CSV file:
+```csv
+{csv}
+```
+
+Question: {question}
+Answer: """
