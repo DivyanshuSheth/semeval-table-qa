@@ -1,0 +1,160 @@
+False
+__CODE_ERROR__: 'simple_2016_vote'
+__CODE_ERROR__: 'simple_2016_vote'
+__CODE_ERROR__: 'vote_choice'
+11
+__CODE_ERROR__: 'vote_choice'
+__CODE_ERROR__: 'education_grouped_by_gender'
+__CODE_ERROR__: 'NCHS Urban/rural (long form)'
+__CODE_ERROR__: invalid syntax (<string>, line 4)
+__CODE_ERROR__: 'vote_choice'
+__CODE_ERROR__: 'education_grouped_by_gender'
+South Atlantic
+['MI', 'GA', 'AL', 'CA', 'TX', 'NJ']
+['Education and training', 'Office worker or other professional']
+__CODE_ERROR__: 'race_ethnicity_grouped'
+['25-34', '55-64', '65+', '35-44', '18-24', '45-54']
+[13135, 29189, 13095]
+[4.871233760276248, 2.273869489671245, 1.969631929375061, 1.875535313329686]
+__CODE_ERROR__: 'NCHS Urban/rural (long form)'
+[10.0, 11.0]
+False
+False
+True
+True
+19
+19.0
+61990
+3
+automotorDURSAN.com A
+BMW
+Diésel
+Madrid
+__CODE_ERROR__: 'Column not found: url'
+['Gris / Plata', 'Negro', 'Azul']
+['MERCEDES-BENZ', 'BMW', 'AUDI', 'HONDA', 'SEAT']
+['Eléctrico', 'Híbrido']
+[2016.0, 2020.0, 2017.0, 2018.0]
+[370000, 300000, 254000]
+[29, 18, 8, 3, 54]
+[258.0, 258.0, 218.0, 182.0, 180.0, 170.0]
+True
+False
+False
+__CODE_ERROR__: 'Transaction'
+12
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+9133
+11
+afternoon
+Coffee
+Farm House
+afternoon
+['Coffee', 'Bread', 'Farm House']
+['Coffee', 'Bread']
+['Hearty & Seasonal', 'Brownie']
+[]
+[628, 956, 1152, 1259]
+[9133, 7776, 7497, 7435, 7221]
+[7776, 7104, 5816, 2850]
+[956, 2711]
+True
+False
+True
+False
+9
+4.25
+644423763
+0
+United States
+Disneyland_California
+2011-10
+Australia
+['United States', 'Australia', 'Canada']
+['Disneyland_California', 'Disneyland_HongKong']
+['missing', '2019-1', '2015-12', '2012-5']
+['Canada', 'United States', 'United Kingdom']
+[540713188, 576395715, 310041955, 121577468, 441572512]
+[119781124, 124120037, 337648026, 620582661, 67523841, 130860097, 184009554, 281268713, 118997003, 121577468, 217677667, 310041955]
+[5]
+[2, 5]
+True
+True
+True
+True
+__CODE_ERROR__: 'author_id'
+8111.15
+105448
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+Donald J. Trump
+I have great confidence that China will properly deal with North Korea. If they are unable to do so, the U.S., with its allies, will! U.S.A.
+en
+en
+['realDonaldTrump']
+['en']
+['[]', '"realDonaldTrump"]', '["IvankaTrump"', '"trumpferrypoint"']
+['Donald J. Trump']
+[852508752142114816, 900150814081036288, 1017190186269184001, 822501939267141634, 761711856457125888]
+[603361519192174592, 589632894177533953, 616672730319069185, 618552478653616128]
+[105448, 85433, 84944, 79544, 67612, 59793]
+[10, 14, 376]
+False
+True
+True
+False
+6
+0.0923955552240227
+324.5
+11
+Christopher
+Data Science Fact
+https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/416/thumb/8f8493dfc040e56ef7ff8f59f9474774_normal.jpeg?1517502015
+Paul Klemm
+['Peter Skomoroch', 'Nieman Lab', 'Munmun De Choudhury']
+['Christopher', 'Chris J. Headleand']
+['Catherine Rampell', 'Nieman Lab', 'Deok Gun Park', 'ESFL']
+['ESFL', 'WikipediaLiveMonitor', 'Alberto Perdomo']
+[527, 498, 411, 8031, 91203]
+[35070, 35046, 35106, 35054]
+[0.4905835057931528, 0.2858285808469396, 0.2194061763508274, 0.2171608658929857, 0.1213462154304343, 0.1023296876109954]
+[3.0, 5.0, 7.0]
+True
+True
+False
+True
+20
+3.1
+6
+4
+1
+__CODE_ERROR__: single positional indexer is out-of-bounds
+6
+honeybee
+['honeybee', 'gnat', 'wasp']
+['porpoise', 'dogfish']
+[1, 6, 4, 2]
+[7, 4, 2]
+[1, 6, 2, 4, 7]
+[4, 7, 2, 6]
+[4, 2, 0, 6]
+[6, 2, 0]
+False
+True
+True
+True
+20
+3.5410000000000004
+25
+19
+United Kingdom
+RETROSPOT LAMP
+BLUE POLKADOT WRAP
+Australia
+['BLUE POLKADOT WRAP', 'HANGING JAM JAR T-LIGHT HOLDER', 'FAIRY CAKE FLANNEL ASSORTED COLOUR']
+['HANGING METAL STAR LANTERN', 'LARGE CAKE TOWEL CHOCOLATE SPOTS']
+['United Kingdom', 'Australia']
+['Australia', 'United Kingdom']
+['548005', '555200', '573399', '577076', '568909']
+['22465', '21109', '82484', '22799', '82600']
+[1, 4, 2, 12]
+[1, 1]

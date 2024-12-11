@@ -1,0 +1,190 @@
+False
+Are you registered to vote?                                                                  True
+Which of the following best describes your ethnic heritage?                                  True
+Who are you most likely to vote for on election day?                                         True
+Division                                                                                     True
+Did you vote in the 2016 Presidential election? (Four years ago)                             True
+Weight                                                                                       True
+How likely are you to vote in the forthcoming US Presidential election? Early Voting Open    True
+State                                                                                        True
+County FIPS                                                                                  True
+Who did you vote for in the 2016 Presidential election? (Four years ago)                     True
+What is the highest degree or level of school you have *completed* ?                         True
+NCHS Urban/rural                                                                             True
+likelihood                                                                                   True
+Which of these best describes the kind of work you do?                                       True
+How old are you?                                                                             True
+dtype: bool
+Are you registered to vote?                                                                  False
+Which of the following best describes your ethnic heritage?                                  False
+Who are you most likely to vote for on election day?                                         False
+Division                                                                                     False
+Did you vote in the 2016 Presidential election? (Four years ago)                             False
+Weight                                                                                       False
+How likely are you to vote in the forthcoming US Presidential election? Early Voting Open    False
+State                                                                                        False
+County FIPS                                                                                  False
+Who did you vote for in the 2016 Presidential election? (Four years ago)                     False
+What is the highest degree or level of school you have *completed* ?                         False
+NCHS Urban/rural                                                                             False
+likelihood                                                                                   False
+Which of these best describes the kind of work you do?                                       False
+How old are you?                                                                             False
+dtype: bool
+__CODE_ERROR__: 'If you had to choose a candidate today, who would you vote for?'
+11
+5
+0
+__CODE_ERROR__: 'Region'
+25-34
+__CODE_ERROR__: 'If you had to choose a candidate today, who would you vote for?'
+High school graduate (includes equivalency)
+South Atlantic
+['MI', 'GA', 'AL', 'CA', 'TX', 'NJ']
+['Education and training', 'Office worker or other professional']
+['White (not Hispanic, Latino or Spanish origin)', 'Black or African American (not Hispanic, Latino or Spanish origin)']
+['25-34', '55-64', '65+', '35-44', '18-24', '45-54']
+[53009, 51143, 48113]
+__CODE_ERROR__: 'numpy.ndarray' object has no attribute 'nlargest'
+[1, 2, 5, 3]
+[10.0, 11.0]
+False
+False
+True
+True
+19
+19.1
+61990
+3
+automotorDURSAN.com A
+BMW
+Diésel
+Madrid
+['Madrid', 'Barcelona', 'Málaga']
+['Gris / Plata', 'Negro', 'Azul']
+['MERCEDES-BENZ', 'BMW', 'AUDI', 'HONDA', 'SEAT']
+['Eléctrico', 'Híbrido']
+[2016.0, 2020.0, 2017.0, 2018.0]
+[370000, 300000, 254000]
+[54, 44, 40, 32, 29]
+[258.0, 258.0, 218.0, 182.0, 180.0, 170.0]
+True
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+False
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+12
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+9133
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+afternoon
+Coffee
+Farm House
+afternoon
+['Coffee', 'Bread', 'Farm House']
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+[]
+[]
+[628, 956, 1152, 1259]
+[9133, 7776, 7497, 7435, 7221]
+[7776, 7104, 5816, 2850]
+[956, 2711]
+True
+False
+True
+False
+9
+4.25
+644423763
+2
+United States
+Disneyland_California
+2011-10
+Australia
+['United States', 'Australia', 'Malta']
+['Disneyland_California', 'Disneyland_HongKong']
+['missing', '2019-1', '2015-12', '2012-5']
+['Canada', 'United States', 'United Kingdom']
+[540713188, 576395715, 310041955, 121577468, 441572512]
+[119781124, 337648026, 620582661, 124120037]
+[5, 5, 5]
+[2, 5]
+True
+True
+True
+True
+__CODE_ERROR__: 'author_id'
+8111.15
+105448
+__CODE_ERROR__: Can only use .dt accessor with datetimelike values
+Donald J. Trump
+I have great confidence that China will properly deal with North Korea. If they are unable to do so, the U.S., with its allies, will! U.S.A.
+en
+en
+['realDonaldTrump']
+__CODE_ERROR__: Can only use .str accessor with string values!
+['[]', '["IvankaTrump","trumpferrypoint","foxbusiness","TrumpGolf"]', '["trscoop"]', '["marklevinshow"]']
+['Donald J. Trump']
+[852508752142114816, 900150814081036288, 1017190186269184001, 822501939267141634, 761711856457125888]
+[603361519192174592, 589632894177533953, 616672730319069185, 618552478653616128]
+[105448, 85433, 84944, 79544, 67612, 59793]
+[10, 14, 376]
+False
+True
+True
+False
+6
+0.0923955552240227
+324.5
+11
+Alberto Perdomo
+Data Science Fact
+https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/416/thumb/8f8493dfc040e56ef7ff8f59f9474774_normal.jpeg?1517502015
+Paul Klemm
+['Peter Skomoroch', 'Nieman Lab', 'Munmun De Choudhury']
+['Christopher', 'Chris J. Headleand']
+['Catherine Rampell', 'Nieman Lab', 'Deok Gun Park', 'ESFL']
+['ESFL', 'WikipediaLiveMonitor', 'Alberto Perdomo']
+[527, 498, 411, 8031, 91203]
+[35070, 35046, 35106, 35054]
+[0.4905835057931528, 0.2858285808469396, 0.2194061763508274, 0.2171608658929857, 0.1213462154304343, 0.1023296876109954]
+[3.0, 5.0, 7.0]
+True
+True
+False
+True
+20
+3.1
+6
+4
+1
+__CODE_ERROR__: single positional indexer is out-of-bounds
+6
+honeybee
+['gnat', 'honeybee', 'wasp']
+['dogfish', 'porpoise']
+[1, 6, 4, 2]
+[7, 4, 2]
+[40, 18, 4, 0, 0]
+[4, 7, 2, 6]
+[4, 2, 0, 6]
+[6, 2, 0]
+False
+True
+True
+True
+20
+3.5410000000000004
+25
+19
+United Kingdom
+RETROSPOT LAMP
+BLUE POLKADOT WRAP
+Australia
+['BLUE POLKADOT WRAP', 'HANGING JAM JAR T-LIGHT HOLDER', 'FAIRY CAKE FLANNEL ASSORTED COLOUR']
+['HANGING METAL STAR LANTERN', 'LARGE CAKE TOWEL CHOCOLATE SPOTS']
+['United Kingdom', 'Australia']
+['Australia', 'United Kingdom']
+['548005', '555200', '573399', '577076', '568909']
+['21109', '22465', '22799', '82484', '82600']
+[1, 4, 2, 12]
+[1, 1]

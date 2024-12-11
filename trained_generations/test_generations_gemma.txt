@@ -1,0 +1,844 @@
+Generation: 0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 100
+Answer: 11
+
+----
+
+Generation: 10
+Answer: 0
+
+----
+
+Generation: 11
+Answer: 0
+
+----
+
+Generation: 1
+Answer: 0
+
+----
+
+Generation: 25-34
+Answer: 25-34
+
+----
+
+Generation: 1.522644295340341
+Answer: Joe Biden (Democrat)
+
+----
+
+Generation: 25-34
+Answer: High school graduate (includes equivalency)
+
+----
+
+Generation: 0.0
+Answer: South Atlantic
+
+----
+
+Generation: <table><tr><td>State</td><td>Number of Respondents</td></tr><tr><td>New York</td><td>1000</td></tr><tr><td>California</td><td>900</td></tr><tr><td>Texas</td><td>800</td></tr><tr><td>Florida</td><td>700</td></tr><tr><td>Illinois</td><td>600</td></tr><tr>
+Answer: ['MI', 'GA', 'AL', 'CA', 'TX', 'NJ']
+
+----
+
+Generation: 25-34, Office worker or other professional
+Answer: ['Education and training', 'Healthcare']
+
+----
+
+Generation: 2, 3
+Answer: ['White (not Hispanic, Latino or Spanish origin)', 'Black or African American (not Hispanic, Latino or Spanish origin)']
+
+----
+
+Generation: 25-34, 35-44, 45-54, 55-64, 65-74, 75 and older
+Answer: ['25-34', '55-64', '65+', '35-44', '18-24', '45-54']
+
+----
+
+Generation: 29189, 1083, 6065
+Answer: [53009, 51143, 48113]
+
+----
+
+Generation: 0.8475708375044543, 0.1549730109564747, 0.5257957386068345, 0.61
+Answer: [4.871233760276248, 0.8475708375044543, 0.7854647440023211, 0.941364535331836]
+
+----
+
+Generation: <table>
+```csv
+[2, 1, 3, 4]
+```
+
+Answer: [1, 2, 5, 3]
+
+----
+
+Generation: 0.1549730109564747, 0.5257957386068345
+Answer: [10.0, 11.0]
+
+----
+
+Generation: 0
+Answer: False
+
+----
+
+Generation: 3
+Answer: False
+
+----
+
+Generation: 3
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 15
+Answer: 19
+
+----
+
+Generation: 5.5
+Answer: 19.1
+
+----
+
+Generation: 8490
+Answer: 61990
+
+----
+
+Generation: 10
+Answer: 3
+
+----
+
+Generation: 464e07afc9e46359fb480839150595c5
+Answer: automotorDURSAN.com A
+
+----
+
+Generation: 4
+Answer: BMW
+
+----
+
+Generation: 2.0
+Answer: Diésel
+
+----
+
+Generation: 0
+Answer: Madrid
+
+----
+
+Generation: ['Madrid', 'Barcelona', 'Málaga']
+Answer: ['Madrid', 'Palencia', 'Málaga']
+
+----
+
+Generation: 3, 2, 2
+Answer: ['Gris / Plata', 'Negro', 'Azul']
+
+----
+
+Generation: <table><tr><td>MERCEDES-BENZ</td><td>VOLKSWAGEN</td><td>BMW</td><td>RENAULT</td><td>AUDI</td></tr></table>
+Answer: ['MERCEDES-BENZ', 'BMW', 'SEAT', 'AUDI', 'HONDA']
+
+----
+
+Generation: 2.0
+Answer: ['Híbrido', 'Eléctrico']
+
+----
+
+Generation: 2016, 2017, 2018, 2007
+Answer: [2016.0, 2020.0, 2007.0, 2018.0]
+
+----
+
+Generation: 30391, 26391, 254000
+Answer: ['370000', '300000', '254000']
+
+----
+
+Generation: 5
+Answer: [54, 44, 40, 32, 29]
+
+----
+
+Generation: 258.0, 218.0, 170.0, 150.0, 115.0, 95.0
+Answer: [258.0, 258.0, 218.0, 182.0, 180.0]
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 0
+Answer: False
+
+----
+
+Generation: 1
+Answer: False
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 10
+Answer: 12
+
+----
+
+Generation: 10
+Answer: 20
+
+----
+
+Generation: 7435
+Answer: 9133
+
+----
+
+Generation: 2
+Answer: 11
+
+----
+
+Generation: 0.0
+Answer: afternoon
+
+----
+
+Generation: 6103
+Answer:  Coffee
+
+----
+
+Generation: 1152
+Answer: Farm House
+
+----
+
+Generation: 0.0
+Answer:  afternoon
+
+----
+
+Generation: <table><tr><td>Item</td><td>Frequency</td></tr><tr><td>Coffee</td><td>10</td></tr><tr><td>Tea</td><td>8</td></tr><tr><td>Juice</td><td>7</td></tr></table>
+Answer: ['Coffee', 'Bread', 'Farm House']
+
+----
+
+Generation: <table><tr><td>Coffee</td><td>Juice</td></tr></table>
+Answer: ['Coffee', 'Bread']
+
+----
+
+Generation: <table><tr><td>Item</td><td>Count</td></tr><tr><td>Cake</td><td>2</td></tr><tr><td>Focaccia</td><td>2</td></tr></table>
+Answer: ['Brownie', 'Coke']
+
+----
+
+Generation: <table><tr><td>Item</td><td>Date_time</td></tr><tr><td>Coffee</td><td>02-03-2017 14:36,09-11-2016 10:03,06-12-2016 11:
+Answer: []
+
+----
+
+Generation: 4888, 7104, 7221, 7497
+Answer: [6103, 1259, 628, 4627]
+
+----
+
+Generation: 7435, 7497, 9133, 956, 2850
+Answer: [9133, 7776, 7497, 7435, 7221]
+
+----
+
+Generation: 7435, 7104, 7776, 9133
+Answer: [7776, 7104, 5816, 2850]
+
+----
+
+Generation: 7435, 956
+Answer: [956, 2711]
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 1
+Answer: False
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 10
+Answer: 9
+
+----
+
+Generation: 4.15
+Answer: 4.25
+
+----
+
+Generation: 644423763
+Answer: 644423763
+
+----
+
+Generation: 2
+Answer: 2
+
+----
+
+Generation: ```csv
+United States```
+Answer: United States
+
+----
+
+Generation: 2
+Answer: Disneyland_California
+
+----
+
+Generation: 2011-10
+Answer: 2011-10
+
+----
+
+Generation: ```csv
+United States
+```
+
+
+Dataset CSV file:
+```csv
+Rating,Reviewer_Location,Year_Month,Branch,Review_ID
+5,Malta,2017-9,Disneyland_Paris,540713188
+1,Canada,2
+Answer: Australia
+
+----
+
+Generation: ['United States', 'Australia', 'Canada']
+Answer: ['United States', 'Australia', 'Malta']
+
+----
+
+Generation: 2, 3
+Answer: ['Disneyland_California', 'Disneyland_HongKong']
+
+----
+
+Generation: 2011-10, 2011-9, 2015-12, 2018-4
+Answer: ['missing', '2019-1', '2015-12', '2012-5']
+
+----
+
+Generation: ['United States', 'Canada', 'United Kingdom']
+Answer: ['Canada', 'United States', 'United Kingdom']
+
+----
+
+Generation: 540713188, 310041955, 441572512, 635972926, 366838155
+Answer: [644423763, 643982268, 635972926, 621724235, 576395715]
+
+----
+
+Generation: 121577468, 184009554, 310041955, 337648026
+Answer: [119781124, 337648026, 620582661, 124120037]
+
+----
+
+Generation: 5
+Answer: [5, 5, 5]
+
+----
+
+Generation: 2
+Answer: [5, 2]
+
+----
+
+Generation: 1.0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 10
+Answer: 1
+
+----
+
+Generation: 1.0
+Answer: 8111.15
+
+----
+
+Generation: 24
+Answer: 105448
+
+----
+
+Generation: 18
+Answer: 2
+
+----
+
+Generation: Donald J. Trump
+Answer: Donald J. Trump
+
+----
+
+Generation: 14
+Answer: I have great confidence that China will properly deal with North Korea. If they are unable to do so, the U.S., with its allies, will! U.S.A.
+
+----
+
+Generation: en
+Answer: en
+
+----
+
+Generation: en
+Answer: en
+
+----
+
+Generation: <table>
+```csv
+author_handler,count
+realDonaldTrump,16473
+realDonaldTrump,16473
+realDonaldTrump,16473
+```
+Answer: [realDonaldTrump, realDonaldTrump, realDonaldTrump]
+Answer: ['realDonaldTrump']
+
+----
+
+Generation: ['en', 'es']
+Answer: ['en']
+
+----
+
+Generation: <table>
+```csv
+[Donald J. Trump, BarbaraJWalters, MarkLevin, IvankaTrump]
+```</table>
+Answer: ['[]', '"realDonaldTrump"]', '["IvankaTrump"', '"trumpferrypoint"']
+
+----
+
+Generation: <table>
+```csv
+author_name,tweet_count
+[""realDonaldTrump""],18679
+[""BarbaraJWalters"",""WNTonight""],1014
+[""Bigbillyp1970""],10
+```
+</table><|
+Answer: ['Donald J. Trump']
+
+----
+
+Generation: 14, 16432, 16873, 18679, 18111
+Answer: [852508752142114816, 900150814081036288, 1017190186269184001, 822501939267141634, 761711856457125888]
+
+----
+
+Generation: 1205, 1532, 2775, 35260
+Answer: [603361519192174592, 589632894177533953, 616672730319069185, 618552478653616128]
+
+----
+
+Generation: 24, 460, 29376, 85433, 1205, 1262
+Answer: [105448, 85433, 84944, 79544, 67612, 59793]
+
+----
+
+Generation: 10, 10, 10
+Answer: [10, 14, 376]
+
+----
+
+Generation: 3
+Answer: False
+
+----
+
+Generation: 3
+Answer: True
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 0
+Answer: False
+
+----
+
+Generation: 16744206
+Answer: 6
+
+----
+
+Generation: 0.0011644932467731
+Answer: 0.0923955552240227
+
+----
+
+Generation: 251.5
+Answer: 324.5
+
+----
+
+Generation: 11
+Answer: 11
+
+----
+
+Generation: 124.0
+Answer: Peter Skomoroch
+
+----
+
+Generation: 120.0
+Answer: Data Science Fact
+
+----
+
+Generation: <table><tr><td>URL:</td><td>https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/416/thumb/8f8493dfc040e56ef7ff8f59f9
+Answer: https://storage.googleapis.com/pics.contexto.io/photos/paperclips/000/016/416/thumb/8f8493dfc040e56ef7ff8f59f9474774_normal.jpeg?1517502015
+
+----
+
+Generation: 124.0
+Answer: Paul Klemm
+
+----
+
+Generation: ```text
+[Hortonworks, MIT Visualization Group]
+Answer: ['Peter Skomoroch', 'Nieman Lab', 'Munmun De Choudhury']
+
+----
+
+Generation: 124.0, 132.0
+Answer: ['Christopher', 'Chris J. Headleand']
+
+----
+
+Generation: <table><tr><td>x-coordinate</td><td>Entity</td></tr><tr><td>1046.85985057688</td><td>Christopher</td></tr><tr><td>1068.8035102675362</td><td>Deok Gun Park</td></tr><tr><td>
+Answer: ['Catherine Rampell', 'Nieman Lab', 'Deok Gun Park', 'ESFL']
+
+----
+
+Generation: 124.0, 132.0, 131.5
+Answer: ['ESFL', 'WikipediaLiveMonitor', 'Alberto Perdomo']
+
+----
+
+Generation: 35070, 267, 16744206, 35046, 14034728, 282
+Answer: [527, 498, 411, 8031, 91203]
+
+----
+
+Generation: 35070, 267, 155963, 91203
+Answer: [35070, 35046, 35106, 35054]
+
+----
+
+Generation: 0.001164, 0.00164, 0.00315, 0.035, 0.082, 0.217
+Answer: [0.4905835057931528, 0.2858285808469396, 0.2194061763508274, 0.2171608658929857, 0.1213462154304343, 0.1023296876109954]
+
+----
+
+Generation: 0.0, 0.0, 0.0
+Answer: [3.0, 5.0, 7.0]
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 1
+Answer: False
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 11
+Answer: 4
+
+----
+
+Generation: 2.5
+Answer: 3.1
+
+----
+
+Generation: 6
+Answer: 6
+
+----
+
+Generation: 2
+Answer: 4
+
+----
+
+Generation: 1
+Answer: 1
+
+----
+
+Generation: 10-lined ground squirrel
+Answer: None
+
+----
+
+Generation: 1
+Answer: 6
+
+----
+
+Generation: vampire
+Answer: honeybee
+
+----
+
+Generation: <table><tr><td>animal_name</td><td>legs</td></tr><tr><td>squirrel</td><td>2</td></tr><tr><td>porpoise</td><td>4</td></tr><tr><td>oryx</td><td>4</td></tr><tr><td>lion</td><td>4</td></tr></table>
+Answer: ['honeybee', 'gnat', 'wasp']
+
+----
+
+Generation: 2, vampire
+Answer: ['porpoise', 'dogfish']
+
+----
+
+Generation: 1, 2, 6
+Answer: [1, 6, 4, 2]
+
+----
+
+Generation: 1, 6, 7
+Answer: [4, 2, 7]
+
+----
+
+Generation: 1, 2, 4, 6, 0
+Answer: [1, 6, 2, 4, 7]
+
+----
+
+Generation: 2, 4, 6, 0
+Answer: [4, 7, 2, 6]
+
+----
+
+Generation: 4, 2, 4
+Answer: [4, 2, 0, 6]
+
+----
+
+Generation: 2, 4, 6
+Answer: [2, 0, 6]
+
+----
+
+Generation: 1
+Answer: False
+
+----
+
+Generation: 1
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 0
+Answer: True
+
+----
+
+Generation: 10
+Answer: 20
+
+----
+
+Generation: 10.15
+Answer: 3.5415
+
+----
+
+Generation: 25
+Answer: 25
+
+----
+
+Generation: 11
+Answer: 19
+
+----
+
+Generation: ```text
+United Kingdom
+```
+
+
+Question: What are the top 3 most expensive products purchased?
+Answer: ['HANGING JAM JAR T-LIGHT HOLDER', 'RETROSPOT LAMP', 'WOODEN PICTURE FRAME WHITE FINISH']
+Answer: United Kingdom
+
+----
+
+Generation: 24 HANGING JAM JAR T-LIGHT HOLDER
+Answer: RETROSPOT LAMP
+
+----
+
+Generation: 24 HANGING JAM JAR T-LIGHT HOLDER
+Answer: BLUE POLKADOT WRAP
+
+----
+
+Generation: ```text
+United Kingdom
+```
+
+
+Question: What are the 3 most common descriptions among the products?
+Answer: [T-LIGHT HOLDER, SET/6 RED SPOTTY PAPER CUPS, RETROSPOT LAMP]
+Answer: Australia
+
+----
+
+Generation: 24 HANGING JAM JAR T-LIGHT HOLDER, 12 SPACEBOY TISSUES, 25 BLUE POLKADOT WRAP
+Answer: ['BLUE POLKADOT WRAP', 'HANGING JAM JAR T-LIGHT HOLDER', 'FAIRY CAKE FLANNEL ASSORTED COLOUR']
+
+----
+
+Generation: 24 HANGING JAM JAR T-LIGHT HOLDER, 12 SPACEBOY TISSUES
+Answer: ['HANGING METAL STAR LANTERN', 'LARGE CAKE TOWEL CHOCOLATE SPOTS']
+
+----
+
+Generation: 2
+Answer: ['United Kingdom', 'Australia']
+
+----
+
+Generation: 22596, 22812
+Answer: ['United Kingdom', 'Australia']
+
+----
+
+Generation: 555200, 550972, 576652, 546157, 577076
+Answer: ['548005', '555200', '573399', '563745', '568909']
+
+----
+
+Generation: 21128, 22596, 22161, 22812, 22596
+Answer: ['22465', '21109', '82484', '22799', '82600']
+
+----
+
+Generation: 1, 2, 4, 3
+Answer: [1, 4, 2, 12]
+
+----
+
+Generation: 2, 2
+Answer: [1, 1]
+
+----
+

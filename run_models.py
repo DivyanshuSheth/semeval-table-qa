@@ -101,9 +101,9 @@ def chat_completions(prompts, max_tokens=500):
 
 os.environ["HF_HOME"] = "/data/datasets/hf_cache"
 os.environ["TRANSFORMERS_CACHE"] = "/data/datasets/hf_cache"
-model_name = "bigcode/starcoder2-7b"
 eval_dataset = "test"
-# model_name = "Qwen/Qwen2.5-Coder-7B-Instruct"
+# model_name = "bigcode/starcoder2-7b"
+model_name = "Qwen/Qwen2.5-Coder-7B-Instruct"
 # model_name = "deepseek-ai/deepseek-coder-7b-instruct-v1.5"
 # model_name = "codellama/CodeLlama-7b-Instruct-hf"
 # model_name="gpt-4o-mini"
@@ -115,7 +115,7 @@ elif model_name.startswith("Qwen") or model_name.startswith("deepseek") or model
     vllm_model = initialize_vllm_model(model_name)
 else:
     raise ValueError("Model not supported")
-prompt_to_use = prompt_6 # prompt_6 for pretrained, prompt_4 for instruction-tuned
+prompt_to_use = prompt_4 # prompt_6 for pretrained, prompt_4 for instruction-tuned
 all_prompts = []
 all_generations = []
 all_execs = []

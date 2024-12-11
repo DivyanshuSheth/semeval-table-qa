@@ -1,0 +1,181 @@
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['MI', 'GA', 'AL', 'CA', 'TX', 'NJ']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[13135, 29189, 1083]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+0     False
+1     False
+2     False
+3     False
+4     False
+5     False
+6     False
+7     False
+8     False
+9     False
+10    False
+11    False
+12    False
+13    False
+14    False
+15    False
+16    False
+17    False
+18    False
+19    False
+Name: model, dtype: bool
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+19.1
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+Diésel
+Madrid
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['Gris / Plata', 'Negro', 'Azul']
+['MERCEDES-BENZ', 'BMW', 'AUDI', 'HONDA', 'SEAT']
+['Diésel', 'Gasolina']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[54, 44, 40, 32, 29]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+12
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+9133
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['Coffee', 'Bread', 'Farm House']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: No axis named 1 for object type Series
+['Focaccia', 'Cake']
+[6103, 1259, 628, 4627]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[7776, 7104, 5816, 2850]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: Cannot perform 'rand_' with a dtyped [int64] array and scalar of type [bool]
+True
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+True
+9
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: unmatched ']' (<string>, line 4)
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+2
+2011-10
+United States
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['Disneyland_California', 'Disneyland_HongKong']
+['missing', '2019-1', '2015-12', '2012-5']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: unmatched ']' (<string>, line 4)
+[1, 2]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+True
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+8111.15
+105448
+__CODE_ERROR__: 'str' object has no attribute 'year'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['[]', '["IvankaTrump","trumpferrypoint","foxbusiness","TrumpGolf"]', '["trscoop"]', '["marklevinshow"]']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[13, 15, 14, 3, 2]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[105448, 85433, 84944, 79544, 67612, 59793]
+[10, 14, 376]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+False
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+11
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+19
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[15, 18, 2, 4]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[17, 18, 14, 13, 12]
+__CODE_ERROR__: No axis named 4 for object type Series
+[0.4905835057931528, 0.2858285808469396, 0.2194061763508274, 0.2171608658929857, 0.1213462154304343, 0.1023296876109954]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+True
+False
+True
+5
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+1
+0
+5    6
+Name: legs, dtype: int64
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[6, 6, 6]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[1, 6, 4]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+[7, 2, 6, 1]
+[4, 2, 0, 6]
+[4, 2, 0]
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+True
+True
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+20
+3.5410000000000004
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+19
+United Kingdom
+4
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: '(' was never closed (<string>, line 4)
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+['United Kingdom', 'Australia']
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
+__CODE_ERROR__: 'NoneType' object has no attribute 'replace'
